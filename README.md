@@ -5,14 +5,36 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Software engineering is a process of designing,testing,building and maintaing software systems.
+The importance technology industry is quality software, economic growth, innovations, problem solving and security
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+The birth of high level language- The introdution of high level programming languages like Fortran, COBOL and LISP revolutionized software development.
+The personal computer revolution- The personal computers brought software development to a broader audience and it developed graphical user interfaces, word processing software and and early PC games.
+The internet Age- The world wide web transformed software into a global, interconnected entity it developed a web broswer, email and instant messaging service.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
-
+1.Planinning
+- Define project scope,goals and deliverables
+- Identify functional stakeholders, resources and timlimes
+2. Requirements Gathering
+- Create a software requirements specification document
+- Collect and document software requirements
+3.Design
+- Develop software architecture and design
+- Define systems architecture and components
+4. Implenentation\Coding
+- Write and test software code
+- implement software features and functionality
+5. Testing and quality assurance
+- Identify and fix defects
+- Conduct thorough testing of software
+6. Deployment
+- Plan and execute software deployment
+- Conduct post deployment testing and monitoring
+7. Maintenance
+- Fix defects and address user issues
+- Provide ongoing support and maintenance
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
@@ -32,6 +54,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering is a process of designing and optimizing text prompts to elicit specific, accurate and informative responces from artifcial intelligence models 
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
