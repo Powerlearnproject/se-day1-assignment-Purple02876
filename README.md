@@ -20,6 +20,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 2. Requirements Gathering
 - Create a software requirements specification document
 - Collect and document software requirements
+  
 3.Design
 - Develop software architecture and design
 - Define systems architecture and components
