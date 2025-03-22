@@ -37,24 +37,49 @@ List and briefly explain the phases of the Software Development Life Cycle.
 - Fix defects and address user issues
 - Provide ongoing support and maintenance
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+  Waterfall methodology is a linear sequential aproach where each phase is completed before moving on to the next one
+ Scenarios of Waterfall Methodology
+-Construction projects: Building a house or a bridge a clear plan fixed timeline and well-defined requirements.
+-Manufacturing processses: Production lines often require a sequential approach to ensure efficiency and quality control.
+-Government projects: Public sector projects often involve strict regulations fixed budgets and well defined requirements.
+Agile Methodology is an iterative and flexible approach that emphasizes collaboration, customer satisfication and continous improvement.
+Scenarios
+-Software development: Developing software applications often involves uncertain requirements changing customer needs and a need for rapid prototyping and iteration.
+-Research and development: R&D projects often involve experimentation uncencertaunty and a need for flexibility and adaptability
+-Marketing campaigns: Marketing campaigns often require rapid iteration flexibility and adaptability to changing customer needs and market needs 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+Software Developer 
+-Designs, develops and tests software applications 
+-Implements software features and functionality 
+-Participates in code reviews and contributes to the improvement of the codebase
+Quality Assurance Engineer
+-Deveolps and excutes software tessting plans
+-Indentifies reports and tracks software defects
+-Participates in test driven development and behavior driven development
+Project Manager
+-Leads and directs software development projects 
+-Coordinates cross-functional teams
+-Develops and manages projects schedules
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
-
+Technical Challenges
+Collaboration and Communication
+Personal and Professional
+Performance and Security
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
-
+Unit testing involves testing individual units of codes typically functions or methods to ensure they work as expected. This testing is uasually performed by developers during the development phase.
+Integration testing involves testing multiple units of code together to ensure they work seamlessly as a whole. This testing is usually performed after unit testing and before system testing.
+Acceptance testing invovles testing the software system with real users to ensure it meets their needs and expectations. This testing is usually performed by the end users or stakeholders
+The importance of software quality assurance is meeting requirements, being reliable, able to be secure and meets user needs.
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering is the process of designing and optimizing text prompts to elicit specific accurate and informative responses from artificial intelligence models particularly large language models like OpenAI's 01 and 03-mini
 Prompt engineering is a process of designing and optimizing text prompts to elicit specific, accurate and informative responces from artifcial intelligence models 
 
 
